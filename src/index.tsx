@@ -2,7 +2,6 @@ import * as React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import * as App from './App';
-import * as  InputBox from './InputBox';
 import * as  Plus from './Plus';
 import * as  Minus from './Minus';
 import * as  Divide from './Divide';
