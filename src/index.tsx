@@ -1,11 +1,11 @@
 import * as React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import * as App from './App';
-import * as  Plus from './Plus';
-import * as  Minus from './Minus';
-import * as  Divide from './Divide';
-import * as  Multiply from './Multiply';
+import App from './App';
+import Plus from './Plus';
+import Minus from './Minus';
+import  Divide from './Divide';
+import  Multiply from './Multiply';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
