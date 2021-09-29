@@ -1,6 +1,6 @@
 import * as React from "react"
 
-function InputBox(){
+function App(){
 
     return(
         <div>
@@ -10,3 +10,5 @@ function InputBox(){
         </div>
     )
 }
+
+export default App
